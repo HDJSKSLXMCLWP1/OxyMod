@@ -1,0 +1,11 @@
+=== Credits ===
+
+Asset Name: Offroad racecar
+Source: https://grafisch.media/assets/offroad-racecar
+License: CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+
+License Requirements:
+- Author must be credited. No commercial use.
+
+To use this asset, please include the following credits in your project:
+- Offroad racecar (https://grafisch.media/assets/offroad-racecar) by Jelle licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
